@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently pursuing a Machine Learning Engineer certificate.
+- 📚 Udacity - certified in AI Programming with Python & Intro to Machine Learning with PyTorch
 - ⚡ Fun fact: full time engineer who loves to play with data and explore the wonder of AI
 
 <!--
