@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Machine Learning & AI
-- ⚡ Fun fact: full time oil & gas engineer who loves to play with data and explore the wonder of AI
-- 📫 How to reach me: 
+- 🌱 I’m currently learning Machine Learning
+- ⚡ Fun fact: full time engineer who loves to play with data and explore the wonder of AI
 
 <!--
 **louisteo9/louisteo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
