@@ -3,6 +3,9 @@
 - 🌱 I’m currently pursuing a Machine Learning Engineer certificate.
 - 📚 Udacity - certified in AI Programming with Python & Intro to Machine Learning with PyTorch
 - ⚡ Fun fact: full time engineer who loves to play with data and explore the wonder of AI
+- 📫 How to reach me: louisteo9@outlook.com
+
+This GitHub repository showcases how we can quickly create a machine learning model. I will also show you how you can optimise or improve your model throught different techniques. Any feedback is welcomed!
 
 <!--
 **louisteo9/louisteo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
