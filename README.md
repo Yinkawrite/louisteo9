@@ -5,7 +5,7 @@
 - ⚡ Fun fact: full time engineer who loves to play with data and explore the wonder of AI
 - 📫 How to reach me: louisteo9@outlook.com
 
-This GitHub repository showcases some of my data science and machine learning works. Any feedback is welcomed! 
+This GitHub repository showcases some of my data science and machine learning works. Any feedback is welcome! 
 
 <!--
 **louisteo9/louisteo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
