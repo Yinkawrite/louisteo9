@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently pursuing a Data Scientist certificate.
-- 📚 Udacity - certified in AI Programming with Python & Intro to Machine Learning with PyTorch
+- 📚 Udacity - certified in Data Science & AI Programming with Python
 - ⚡ Fun fact: full time engineer who loves to play with data and explore the wonder of AI
 - 📫 How to reach me: louisteo9@outlook.com
 
