@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/louis-teo-09" target="_blank" rel="nofollow"><img align="right" alt="Louis' Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-### Hi there 👋 I am Louis!
+## Hi there 👋 I am Louis!
 
 - ⚡ Fun fact: full time engineer who loves to play with data and explore the wonder of AI
 - 📚 Udacity - certified in Data Science & AI Programming with Python
@@ -9,7 +9,7 @@
 
 This GitHub repository showcases some of my data science and machine learning works. Any feedback is welcome!
 
-## Check my blogs
+### Check my blogs
 <details> 
  <summary><b>📑 My latest Medium articles</b>:</summary>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@louisteo9/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@louisteo9/0" alt="Recent Article 0"></a>
