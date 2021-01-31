@@ -1,4 +1,4 @@
-<a href="www.linkedin.com/in/louis-teo-09" target="_blank" rel="nofollow"><img align="right" alt="Louis' Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
+<a href="https://www.linkedin.com/in/louis-teo-09" target="_blank" rel="nofollow"><img align="right" alt="Louis' Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 ### Hi there 👋 I am Louis!
 
