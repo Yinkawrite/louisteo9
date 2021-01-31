@@ -4,6 +4,7 @@
 
 - ⚡ Fun fact: full time engineer who loves to play with data and explore the wonder of AI
 - 📚 Udacity - certified in Data Science & AI Programming with Python
+- 📫 How to reach me: louisteo9@outlook.com
 - 👋 My Medium [blog site](https://louisteo9.medium.com/)
 
 This GitHub repository showcases some of my data science and machine learning works. Any feedback is welcome!
