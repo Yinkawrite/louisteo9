@@ -2,14 +2,14 @@
 
 ## Hi there 👋 I am Louis!
 
-- ⚡ Fun fact: full time engineer who loves to play with data and explore the wonder of AI
-- 📚 Udacity - certified in Data Science & AI Programming with Python
+- ⚡ Fun fact: full time engineer who loves to play with data and explore the wonders of AI
+- 📚 Udacity-certified in Data Science & AI Programming with Python
 - 📫 How to reach me: louisteo9@outlook.com
 - 👋 My Medium [blog site](https://louisteo9.medium.com/)
 
-This GitHub repository showcases some of my data science and machine learning works. Any feedback is welcome!
+This GitHub repository showcases some of my data science and machine learning work. Any feedback is welcome!
 
-### Check my blogs
+### Check out my blog
 <details> 
  <summary><b>📑 My latest Medium stories</b>:</summary>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@louisteo9/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@louisteo9/0" alt="Recent Article 0"></a>
