@@ -3,7 +3,7 @@
 ## Hi there 👋 I am Louis!
 
 - ⚡ Fun fact: full time engineer who loves to play with data and explore the wonders of AI
-- 📚 Udacity-certified in Data Science & AI Programming with Python
+- 📚 Udacity-certified in Data Science, Deep Learning & AI Programming with Python
 - 📫 How to reach me: louisteo9@outlook.com
 - 👋 My Medium [blog site](https://louisteo9.medium.com/)
 
